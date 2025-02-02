@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "start": "(cd backend && node server.mjs &) && npm run dev"
   },
   "dependencies": {
     "@apollo/client": "^3.12.8",
