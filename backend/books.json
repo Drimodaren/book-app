@@ -1,0 +1,212 @@
+{
+  "books": [
+    {
+      "id": "23",
+      "book_title": "Honorable",
+      "author": "Judi Criag",
+      "genre": "Fiction",
+      "publication_date": "2003-11-22",
+      "price": 26.04
+    },
+    {
+      "id": "5",
+      "book_title": "Dr1211",
+      "author": "Othilia Ody",
+      "genre": "Romance",
+      "publication_date": "2014-03-18",
+      "price": 1.79
+    },
+    {
+      "id": "72",
+      "book_title": "Rev",
+      "author": "Boony Cumpsty",
+      "genre": "Mystery",
+      "publication_date": "1966-03-15",
+      "price": 10.16
+    },
+    {
+      "id": "18",
+      "book_title": "Mrs",
+      "author": "Aeriell Gladwin",
+      "genre": "Romance",
+      "publication_date": "1936-04-14",
+      "price": 44.67
+    },
+    {
+      "id": "94",
+      "book_title": "Rev",
+      "author": "Dorette Dawton",
+      "genre": "Romance",
+      "publication_date": "1958-05-11",
+      "price": 10.35
+    },
+    {
+      "id": "36",
+      "book_title": "Mrs",
+      "author": "Alvina Lemme",
+      "genre": "Science Fiction",
+      "publication_date": "1999-10-10",
+      "price": 97.21
+    },
+    {
+      "id": "52",
+      "book_title": "Mr",
+      "author": "Jeanie MacKonochie",
+      "genre": "Romance",
+      "publication_date": "1956-06-12",
+      "price": 85.26
+    },
+    {
+      "id": "70",
+      "book_title": "Dr",
+      "author": "Sioux Slade",
+      "genre": "Science Fiction",
+      "publication_date": "1999-12-31",
+      "price": 13.37
+    },
+    {
+      "id": "22",
+      "book_title": "Mrs",
+      "author": "Mattias Spearett",
+      "genre": "Fiction",
+      "publication_date": "1981-11-25",
+      "price": 30.47
+    },
+    {
+      "id": "35",
+      "book_title": "Honorable",
+      "author": "Nickolas Gettins",
+      "genre": "Fiction",
+      "publication_date": "1911-02-08",
+      "price": 96.31
+    },
+    {
+      "id": "78",
+      "book_title": "Dr",
+      "author": "Vikky Tidball",
+      "genre": "Mystery",
+      "publication_date": "2014-06-03",
+      "price": 32.3
+    },
+    {
+      "id": "28",
+      "book_title": "Ms",
+      "author": "Kassey Piggott",
+      "genre": "Fiction",
+      "publication_date": "1944-02-04",
+      "price": 99.53
+    },
+    {
+      "id": "96",
+      "book_title": "Mrs",
+      "author": "Pieter MacCarrick",
+      "genre": "Non-Fiction",
+      "publication_date": "1959-02-24",
+      "price": 53.82
+    },
+    {
+      "id": "90",
+      "book_title": "Honorable",
+      "author": "Nicholas Kemmer",
+      "genre": "Fiction",
+      "publication_date": "1916-11-18",
+      "price": 5.98
+    },
+    {
+      "id": "20",
+      "book_title": "Rev",
+      "author": "Opalina Floyed",
+      "genre": "Non-Fiction",
+      "publication_date": "1986-05-12",
+      "price": 88.61
+    },
+    {
+      "id": "97",
+      "book_title": "Dr",
+      "author": "Anne Moncaster",
+      "genre": "Romance",
+      "publication_date": "1958-12-18",
+      "price": 79.81
+    },
+    {
+      "id": "79",
+      "book_title": "Mr",
+      "author": "Karlotte Leggat",
+      "genre": "Non-Fiction",
+      "publication_date": "1949-06-01",
+      "price": 28.08
+    },
+    {
+      "id": "84",
+      "book_title": "Mr",
+      "author": "Tommy Crinidge",
+      "genre": "Romance",
+      "publication_date": "1948-07-31",
+      "price": 70.85
+    },
+    {
+      "id": "53",
+      "book_title": "Dr",
+      "author": "Kip Gumm",
+      "genre": "Non-Fiction",
+      "publication_date": "1980-05-23",
+      "price": 9.55
+    },
+    {
+      "id": "74",
+      "book_title": "Dr",
+      "author": "Karalynn Balwin",
+      "genre": "Mystery",
+      "publication_date": "1962-03-12",
+      "price": 88.03
+    },
+    {
+      "id": "62",
+      "book_title": "Honorable",
+      "author": "Sorcha Razoux",
+      "genre": "Science Fiction",
+      "publication_date": "2013-10-28",
+      "price": 49.55
+    },
+    {
+      "id": "95",
+      "book_title": "Ms",
+      "author": "Brina Proger",
+      "genre": "Non-Fiction",
+      "publication_date": "1986-05-14",
+      "price": 90.12
+    },
+    {
+      "id": "80",
+      "book_title": "Dr",
+      "author": "Corinna Haighton",
+      "genre": "Fiction",
+      "publication_date": "2011-09-15",
+      "price": 68.89
+    },
+    {
+      "id": "56",
+      "book_title": "Ms",
+      "author": "Goldina Stevani",
+      "genre": "Fiction",
+      "publication_date": "1917-07-15",
+      "price": 38.95
+    },
+    {
+      "id": "1",
+      "book_title": "Mrs",
+      "author": "Rinaldo Godbehere",
+      "genre": "Fiction",
+      "publication_date": "2001-01-14",
+      "price": 47.57
+    },
+    {
+      "id": "u5L5G1Bjtc0dBaY4Y3_Xv",
+      "book_title": "ssss",
+      "author": "ййй",
+      "genre": "qqqq",
+      "publication_date": "2025-02-02",
+      "price": 4
+    }
+  ]
+}
